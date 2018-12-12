@@ -1,6 +1,6 @@
 # react-poketimes-app
 
-some of the basics  react topics are covered in this repository such as state, props, DOM events, Route, Link, Switch and basic redux setups.
+some of the basics  react topics are covered in this repository such as state, props, DOM events, HOC, Route, Link, Switch and basic redux setups.
 
 Run following commands to start the app :
 
