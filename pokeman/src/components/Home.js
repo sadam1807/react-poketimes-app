@@ -20,7 +20,7 @@ class  Home extends Component {
          )   
     })) : (
         
-        <div className="center">Loading...</div>
+        <div className="center">No posts yet</div>
     )
     return (
         <div className="container">
